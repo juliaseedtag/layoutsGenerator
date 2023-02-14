@@ -1,6 +1,6 @@
 {
   "name": "layouts-app",
-  "homepage": "juliaseedtag.github.io/layoutsGenerator",
+  "homepage": "https://juliaseedtag.github.io/layoutsGenerator/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
